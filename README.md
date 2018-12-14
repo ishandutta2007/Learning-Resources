@@ -18,3 +18,10 @@ Contribution from each one of you matters a lot, let's contribute and create a s
 * **Blogs** are something which covers personal experience, they are neither tutorial or website. EX:- My personal experience with Android APK optimization, performance improvements and code optimization.
 * **Useful links** are URL's which belongs to item official guide, documentation, discussion channel, forum, blogs etc.
 
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
